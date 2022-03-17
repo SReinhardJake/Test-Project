@@ -2,18 +2,23 @@
 
 This is my first program...
 
-title
+<!doctype> 
 
-heading 
+<html>
 
-my picture
+  <title> Reinhard jake Sacay </title>
 
-short intro of me
+  <heading> I am Reinhard Jake Sacay </heading> 
 
-my works/ projects
+<img source = my picture yeah> 
 
-contacts
+  <p>short intro of me</p>
 
-footer
+  <section>my works/ projects</section>
 
+  <a href = "contacts">yeah contact</a>
 
+  <footer> other notables </footer>
+
+  
+  </html>
