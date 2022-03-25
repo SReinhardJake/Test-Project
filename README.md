@@ -44,3 +44,19 @@ This is my first program...
   </section>
   
   </html>
+  
+  
+  project 2 is about note taking and calculator in the same site
+  
+  devided by two section/
+  on the right is a calculator 
+  while on the left is a note taking pad
+  
+  the viewpoint is adjustable according to the device being used.
+  
+  
+  
+  
+  
+  
+  
